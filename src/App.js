@@ -13,6 +13,7 @@ import About from "./Pages/about/about.component";
 import Image from './assets/img/background/background.webp';
 import Skills from "./Pages/skills/skills.component";
 import Experience from "./Pages/experience/experience.component";
+import TimeLine from "./Components/project-timeline/project-timeline.component";
 
 
 const App =() => {
@@ -47,6 +48,14 @@ const App =() => {
           </Fade>
         </Container>
       </div>
+  
+    <Container className="container-box rounded">
+        <Slide bottom duration={500}>
+          <hr />
+          <TimeLine />
+        </Slide>
+      </Container>
+   
 
 
   
