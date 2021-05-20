@@ -10,7 +10,8 @@ import Mynavbar from "./Components/my-navbar/mynavbar.component";
 import Mycarousal from "./Components/my-carousal/my-carousal.component";
 import TitleMassage from "./Components/title-massage/title-massage.component";
 import About from "./Pages/about/about.component";
-import Image from './assets/img/background/background.webp'
+import Image from './assets/img/background/background.webp';
+import Skills from "./Pages/skills/skills.component";
 
 
 const App =() => {
@@ -30,6 +31,13 @@ const App =() => {
             </Container>
       </Parallax>
     </div> 
+    <Container className="container-box rounded">
+        <Slide bottom duration={500}>
+          <hr />
+          <Skills />
+        </Slide>
+      </Container>
+
 
   
        
