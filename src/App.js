@@ -12,6 +12,7 @@ import TitleMassage from "./Components/title-massage/title-massage.component";
 import About from "./Pages/about/about.component";
 import Image from './assets/img/background/background.webp';
 import Skills from "./Pages/skills/skills.component";
+import Experience from "./Pages/experience/experience.component";
 
 
 const App =() => {
@@ -37,6 +38,15 @@ const App =() => {
           <Skills />
         </Slide>
       </Container>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <hr />
+
+            <Experience />
+          </Fade>
+        </Container>
+      </div>
 
 
   
