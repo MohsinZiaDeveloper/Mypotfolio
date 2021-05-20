@@ -1,0 +1,36 @@
+.Aboutsection{
+    text-align: center;
+}
+.Aboutsection h1{
+    font-family: KoHo;
+    font-size: 2.4rem;
+    font-weight: 400;
+}
+
+.about {
+    background-color: transparent;
+    font-size: 1.1em;
+  }
+  
+  .profile {
+    max-width: 18em;
+  }
+  
+  .my-details {
+    background-color: rgba(245, 245, 245, 0.747);
+    text-align: left;
+    font-family: KoHo;
+  
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+
+  }
+  .my-details label{
+      font-size: 1.5rem;
+      font-weight: 400;
+      margin-top: -0.4rem;
+      margin-left: 0.5rem;
+  }
+  .my-details p{
+      margin-top: -1rem;
+  }

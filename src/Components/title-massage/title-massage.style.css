@@ -1,0 +1,43 @@
+.fontstyle{
+    font-family: KoHo;
+    font-family: Sacramento;
+    
+  
+}
+.fontstyle1{
+    font-family: KoHo;
+}
+.fontstyle1 option{
+    font-family: KoHo;
+}
+.MyTitleMessage{
+    position: absolute;
+    width: 100%;
+    top: 22rem;
+    z-index: 1;
+    margin-top: -125px;
+    text-align: center;
+   
+
+}
+strong {
+    font-size: 1.4em;
+    margin-top:0.5rem;
+    color: #66fcf1;
+    letter-spacing: 7px;
+    font-weight: 100;
+    text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
+  }
+ 
+  .main {
+    font-size: 35px;
+    color: #66fcf1;
+    
+    
+  }
+  .sub {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #66fcf1;
+    margin-top: -1rem;
+  }

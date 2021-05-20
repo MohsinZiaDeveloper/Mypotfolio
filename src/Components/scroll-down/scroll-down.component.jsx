@@ -15,6 +15,7 @@ const MyScroll = styled.div`
   .turn {
     cursor: pointer;
     transform: rotate(90deg);
+    margin-left:0.4rem
   }
 `;
 

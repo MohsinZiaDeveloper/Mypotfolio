@@ -1,8 +1,8 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import "./my-carousal.style.css";
-import slider1 from '../../assets/img/carousal/laptop2.jpg';
-import slider3 from '../../assets/img/carousal/laptop3.jpg';
+import slider1 from '../../assets/img/carousal/desktop.png';
+import slider3 from '../../assets/img/carousal/slide2.webp';
 import slider2 from '../../assets/img/carousal/slide3.webp';
 import ScrollDown from '../scroll-down/scroll-down.component';
 
