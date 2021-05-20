@@ -32,7 +32,7 @@ import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
 const TimeLine = () => {
     return (
         <div id="projects">
-        <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
+        <h1 className="pt-3 text-center font-details-b pb-3">PROJECTSs</h1>
         <Timeline>
           <Events>
           {/* Project: Todo List With MUI */}
