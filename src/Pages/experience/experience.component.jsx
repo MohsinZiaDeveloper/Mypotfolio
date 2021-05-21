@@ -26,20 +26,16 @@ const Experience = () => {
                     <Card.Text className="text-center style">
                       <label className="body-title-style ">Front End Developer</label>
                       <br />
-                      <label >Technology:</label>  React JS, DOTNET, C#, MS-SQL, Python
+                      <label >Technology:</label>  Angular JS, React js ,DOTNET, C#, MS-SQL
                       <br />
-                      <label>Duration:</label> June 2019 - Present
+                      <label>Duration:</label> Nov  2020 - Present
                       <br/>
                       <label> Description </label>
-                      <ul className="text-left ">
-                        <li className="description"><label>Developed &amp; enhanced</label> multiple features with customizability option across web application.</li>
-                        <li className="description "><label>Developed</label> automation system to create SQL bulk query scripts that 
-                          increased efficiency by 80% and decreased working hours from 4 hours to 30 mins per task.
+                      <ul className="text-left  ">
+                       
+                        <li className="descpara"> I worked as a front end developer and designed, developed and delivered various masterpieces in angular as well as react js which may include html,css ,css5 ,javascript ,typescript ,bootstrap ,media-queries and also integrate restfull APIs . 
                         </li>
-                        <li className="description "><label>Provided</label> application maintenance while working as `Production Support`. 
-                        </li>
-                        <li className="description "><label>Performed</label> CRUD operations on multiple databases to load/ remove data according 
-                        to the business requirements.</li>
+                     
                         {/* <li><label>Co-created</label> React Document used as a guide for new developers.</li> */}
   
                       </ul>

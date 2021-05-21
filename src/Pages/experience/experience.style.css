@@ -31,3 +31,7 @@
   .description label{
       font-weight: 900;
   }
+  .descpara  {
+    line-height: 1.6rem;
+    margin-top: 1rem;
+  }

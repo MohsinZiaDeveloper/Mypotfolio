@@ -4,6 +4,10 @@
 .logo {
     width: 14%;
   }
+  .fantfamily{
+    font-family: KoHo;
+    font-weight: 600;
+  }
   
   .nav-theme {
     background-color: #101018f8;

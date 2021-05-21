@@ -7,7 +7,7 @@ import './mynavbar.style.css';
 const Mynavbar = () => {
     return (
         <>
-        <Navbar fixed="top" collapseOnSelect expand="md"  variant="dark" className="animate-navbar nav-theme justify-content-between">
+        <Navbar fixed="top" collapseOnSelect expand="md"  variant="dark" className=" fantfamily animate-navbar nav-theme justify-content-between">
         <Navbar.Brand href="#home">
         <img  className="logo" src={Logo} alt="My Potfolio Logo "/>
         </Navbar.Brand>

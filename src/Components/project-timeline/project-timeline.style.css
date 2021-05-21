@@ -19,3 +19,11 @@
   .image-style1 {
     width: 3em;
   }
+ 
+  .fontfmily{
+    font-family: KoHo;
+    font-weight: 400;
+  }
+  .bold{
+    font-weight: 900;
+  }
