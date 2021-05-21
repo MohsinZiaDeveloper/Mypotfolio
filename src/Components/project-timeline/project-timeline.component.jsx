@@ -555,7 +555,7 @@ const TimeLine = () => {
                     href="http://mohsinziahikingclub.epizy.com/"
                     target="_blank"
                   >
-                    SOURCE CODE
+                    SEE LIVE
                   </UrlButton>
                 </div>
               </div>

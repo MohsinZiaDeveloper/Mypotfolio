@@ -26,7 +26,7 @@ const Experience = () => {
                     <Card.Text className="text-center style">
                       <label className="body-title-style ">Front End Developer</label>
                       <br />
-                      <label >Technology:</label>  Angular JS, React js ,DOTNET, C#, MS-SQL
+                      <label >Technology:</label>  Angular JS, React js ,DOTNET, MS-SQL
                       <br />
                       <label>Duration:</label> Nov  2020 - Present
                       <br/>
