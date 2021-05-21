@@ -27,14 +27,14 @@ const About = () => {
               <Row className=" align-items-start  p-2 my-details rounded">
                 Hi there! I am &nbsp; <label>Mohsin zia </label>
                 <p>
-                    <br />A passionate programmer , born and brought up in Pakistan . I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
+                    <br />A passionate programmer , born and brought up in Pakistan . I am a Front End Web Developer with React.js, Redux, Angular  as my tech stack.
                     <br />
-                    In 2019, I successfully completed my Engineering with specialization in 'Bachlors of Science in Computer Science'.
+                    In 2020, I successfully completed my Engineering with specialization in 'Bachlors of Science in Computer Science'.
                     <br />
                     Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                     <br />
-                    Along with that, I also help people as a COACH on their journey of becoming a professional programmer. 
-                    <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
+                    
+                    <br /> Along with that, I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                     <br /> <br />
                 </p>
                 <Col className="d-flex justify-content-center flex-wrap">
